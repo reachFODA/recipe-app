@@ -12,7 +12,7 @@ Instalar os modulos
 ```
 npx expo install
 ```
-Instação do json server
+Instalação do json server
 ```
 npm install -g json-server
 ```
