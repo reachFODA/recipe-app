@@ -12,6 +12,11 @@ Instalar os modulos
 ```
 npx expo install
 ```
+Instação do json server
+```
+npm install -g json-server
+```
+
 Iniciar a API fake
 ```
 json-server --watch -d 180 --host IPV4 database.json
